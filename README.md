@@ -55,7 +55,7 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | Java Spring Boot Spring Data JPA Hibernate MySQL REST API Maven | [View Repo](https://github.com/shivakushwah57/library-management-system) |
+| **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Maven` | [View Repo](https://github.com/shivakushwah57/library-management-system) |
 
 ---
 
