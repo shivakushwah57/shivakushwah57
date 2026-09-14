@@ -1,20 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shiva Kushwah</h1>
-
-<h3 align="center">
-🚀 Java Developer | Spring Boot Enthusiast | Backend Developer
-</h3>
-
----
-
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **Library Management System**
-* 🌱 Currently learning **Java, Spring Boot, Spring Data JPA, REST APIs, Hibernate, MySQL, Git & GitHub**
-* 💡 Interested in **Backend Development and REST API Development**
-* 👯 Looking to collaborate on **Java & Spring Boot Projects**
-* 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL and Git**
-* 🎯 Goal: Become a strong **Java Backend Developer**
-* ⚡ Fun fact: **Consistent learning leads to great results 🚀**
+* 💻 I'm a **Java Developer** and **Spring Boot enthusiast**
+* 🌱 Currently improving my skills in **Java, Spring Boot and REST API development**
+* 🔨 Building backend projects using **Spring Boot, JPA, Hibernate and MySQL**
+* 🎯 Preparing for **Java Developer interviews**
+* 📚 Always learning and improving my problem-solving skills
 
 ---
 
@@ -22,108 +12,73 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</p>
+`Java` `C` `C++` `JavaScript`
 
-### 🌐 Web & Backend
+### 🚀 Backend Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</p>
+`Spring Boot` `Spring Data JPA` `Hibernate` `Servlets` `JSP` `REST API`
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-</p>
+`MySQL` `Oracle`
+
+### 🌐 Frontend
+
+`HTML` `CSS` `JavaScript` `React`
+
+### 🔧 Tools & Technologies
+
+`Git` `GitHub` `Maven` `Postman` `Tomcat`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
+| Project Name                  | Description                                                                                                          | Tech Stack                                                                    | Link                                                                     |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
 | **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Maven` | [View Repo](https://github.com/shivakushwah57/library-management-system) |
+| **Online Cricket Score**      | A Java Full Stack application for viewing live cricket scores, match information and managing cricket-related data.  | `Java` `Servlets` `JSP` `MySQL` `HTML` `CSS` `JavaScript` `Tomcat`            | [View Repo](YOUR_CRICKET_PROJECT_LINK)                                   |
 
 ---
 
-# 📊 GitHub Analytics
+## 📚 Currently Learning
+
+* ☕ Advanced Core Java
+* 🌱 Spring Boot
+* 🔗 REST API Development
+* 🗄️ Spring Data JPA & Hibernate
+* 🧪 Unit Testing
+* 🔐 Spring Security
+* 🐙 Git & GitHub
+* 💼 Java Developer Interview Preparation
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=shivakushwah57&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Analytics"/>
+  <img src="https://ghstats.dev/api/card?username=shivakushwah57" alt="GitHub Stats" />
 </p>
 
-### 📌 GitHub Overview
-
-The analytics card automatically tracks:
-
-* ⭐ Total Stars
-* 📝 Commits
-* 🔀 Pull Requests
-* 🐛 Issues
-* 📦 Public Repositories
-* 👥 Followers
-* 🔥 Contribution Streak
-* 📈 Contributions
-* 📊 Activity Grade
-
----
-
-## 🗂️ Top Languages
-
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=shivakushwah57&layout=compact&max_langs=8&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=shivakushwah57&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="YOUR_TROPHY_IMAGE_URL" alt="GitHub Achievements" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Activity
 
 <p align="center">
   <a href="https://github.com/shivakushwah57">
-    <img src="https://streak-stats.demolab.com/?user=shivakushwah57&theme=tokyonight&hide_border=false" alt="GitHub Contribution Streak"/>
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/shivakushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakushwah57&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-  </a>
-</p>
-
----
-
-## 📅 Commit Graph
-
-<p align="center">
-  <a href="https://github.com/shivakushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakushwah57&theme=github-compact&area=true&hide_border=true" alt="GitHub Commit Graph"/>
-  </a>
-</p>
-
----
-
-## 📌 GitHub Profile
-
-<p align="center">
-  <a href="https://github.com/shivakushwah57">
-    <img src="https://img.shields.io/badge/Visit%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/View%20Contribution%20Activity-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Contribution Activity" />
   </a>
 </p>
 
@@ -131,56 +86,48 @@ The analytics card automatically tracks:
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://linkedin.com/in/shivakushwah57">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/shivakushwah57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/shivakushwah57">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" alt="Facebook"/>
+<a href="https://fb.com/shivakushwah57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/mr_vk_57">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+<a href="https://instagram.com/mr_vk_57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 
-<a href="https://www.youtube.com/c/shivakushwah57">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
+<a href="https://www.youtube.com/c/shivakushwah57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/shiva57">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+<a href="https://www.hackerrank.com/shiva57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/shiva_57">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://www.leetcode.com/shiva_57" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 
-<a href="https://www.codechef.com/users/shiva_57">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+<a href="https://www.codechef.com/users/shiva_57" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
-<a href="https://github.com/shiva123">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://github.com/shiva123" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-</p>
+<a href="mailto:shiva123@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
+</a>
 
-<p align="center">
-  <a href="mailto:shiva123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
 </p>
 
 ---
 
-## ⭐ Thanks for visiting my profile!
-
 <p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-</p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
