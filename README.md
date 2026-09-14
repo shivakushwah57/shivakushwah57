@@ -4,13 +4,6 @@
 🚀 Java Developer | Spring Boot Enthusiast | Backend Developer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/shivakushwah57">
-    <img src="https://img.shields.io/badge/GitHub-shivakushwah57-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shivakushwah573&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -53,68 +46,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 📚 Library Management System
-
-A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations.
-
-**Tech Stack:**
-
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Maven`
-
-**Key Features:**
-
-* 📖 Book Management
-* 👤 Member Management
-* 🔄 Book Issue & Return
-* 🔍 Book Search
-* 📄 Pagination & Sorting
-* ✅ Request Validation
-* ⚠️ Global Exception Handling
-* 🔐 Database Relationships
-* 🧪 API Testing
-* 🔄 Transaction Management
-
-<p align="left">
-  <a href="https://github.com/shivakushwah57/library-management-system">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
-  </a>
-</p>
-
----
-
-## 📚 Currently Learning
-
-```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Multithreading
-
-Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Hibernate
- ├── Validation
- ├── Exception Handling
- └── Transactions
-
-Database
- └── MySQL
-
-Tools
- ├── Git & GitHub
- └── Postman
-```
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Library Management System** | A backend REST API project developed using Spring Boot for managing books, members and book issue/return operations. | Java Spring Boot Spring Data JPA Hibernate MySQL REST API Maven | [View Repo](https://github.com/shivakushwah57/library-management-system) |
 
 ---
 
