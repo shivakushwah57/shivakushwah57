@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://github.com/shivakushwah57">
-    <img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-shivakushwah57-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
@@ -42,16 +42,11 @@
 
 ## 🚀 Featured Projects
 
-> Pin your best repositories on your GitHub profile. The section below links directly to your profile so it never points to a non-existent project.
-
 <p align="center">
   <a href="https://github.com/shivakushwah57?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="View repositories"/>
   </a>
 </p>
-
-
-Add your real project links here when ready:
 
 ### 📚 Project Name
 Short description of the project.
@@ -72,23 +67,13 @@ Short description of the project.
   <img src="https://ghstats.dev/api/langs?username=shivakushwah57&layout=compact&langs_count=6&hide_border=false&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-### What the stats section shows
-
-- ⭐ Total Stars
-- 📝 Commits
-- 🔀 Pull Requests
-- 🐛 Issues
-- 📦 Public Repositories
-- 🔥 Current Contribution Streak
-- 📈 Contribution/activity metrics
-
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
   <a href="https://github.com/shivakushwah57">
-    <img src="https://streak-stats.demolab.com/?user=udaysharmadev&theme=dark&hide_border=false" alt="GitHub Contribution Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=shivakushwah57&theme=dark&hide_border=false" alt="GitHub Contribution Streak"/>
   </a>
 </p>
 
@@ -98,7 +83,7 @@ Short description of the project.
 
 <p align="center">
   <a href="https://github.com/shivakushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakushwah57&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph"/>
   </a>
 </p>
 
@@ -108,7 +93,7 @@ Short description of the project.
 
 <p align="center">
   <a href="https://github.com/shivakushwah57">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=github-compact&area=true&hide_border=true" alt="GitHub Commit Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakushwah57&theme=github-compact&area=true&hide_border=true" alt="GitHub Commit Graph"/>
   </a>
 </p>
 
