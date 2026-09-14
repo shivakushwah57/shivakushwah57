@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Kushwah</h1>
 <h3 align="center">A passionate Java Developer and Spring Boot enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakushwah57&label=Profile%20views&color=0e75b6&style=flat" alt="shivakushwah57" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivakushwah57" alt="shivakushwah57" /></a> </p>
-
 - 🔭 I’m currently working on [Library Management System](https://github.com/shivakushwah57/library-management-system)
 
 - 🌱 I’m currently learning **Java, Spring Boot, Spring Data JPA, REST API, React, Hibernate, MySQL, Git & GitHub**
@@ -15,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL**
 
-- 📫 How to reach me **shivakushwah5757@gmail.com**
+- 📫 How to reach me **shiva123@gmail.com**
 
 - ⚡ Fun fact **I believe consistent learning leads to great results 🚀**
 
